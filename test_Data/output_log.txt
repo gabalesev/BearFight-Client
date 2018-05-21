@@ -1,0 +1,33 @@
+Mono path[0] = 'C:/Users/gabriel.sevilla/Documents/Projects/UnityNode/test_Data/Managed'
+Mono path[1] = 'C:/Users/gabriel.sevilla/Documents/Projects/UnityNode/test_Data/Mono'
+Mono config path = 'C:/Users/gabriel.sevilla/Documents/Projects/UnityNode/test_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/gabriel.sevilla/Documents/Projects/UnityNode/test_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55102
+Multi-casting "[IP] 10.65.10.228 [Port] 55102 [Flags] 2 [Guid] 681434687 [EditorId] 515792969 [Version] 1048832 [Id] WindowsPlayer(AR-IT06539) [Debug] 0" to [225.0.0.222:54997]...
+PlayerConnection already initialized - listening to [10.65.10.228:55102]
+Initialize engine version: 5.3.5f1 (960ebf59018a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 8490 (ID=0x6771)
+    Vendor:   ATI
+    VRAM:     1003 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\gabriel.sevilla\Documents\Projects\UnityNode\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\gabriel.sevilla\Documents\Projects\UnityNode\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\gabriel.sevilla\Documents\Projects\UnityNode\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\gabriel.sevilla\Documents\Projects\UnityNode\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\gabriel.sevilla\Documents\Projects\UnityNode\test_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\gabriel.sevilla\Documents\Projects\UnityNode\test_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\gabriel.sevilla\Documents\Projects\UnityNode\test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\gabriel.sevilla\Documents\Projects\UnityNode\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\gabriel.sevilla\Documents\Projects\UnityNode\test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\gabriel.sevilla\Documents\Projects\UnityNode\test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.045 seconds
+Platform assembly: C:\Users\gabriel.sevilla\Documents\Projects\UnityNode\test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\gabriel.sevilla\Documents\Projects\UnityNode\test_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\gabriel.sevilla\Documents\Projects\UnityNode\test_Data\Managed\Mono.Security.dll (this message is harmless)
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
